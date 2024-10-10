@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG9uOWpleXB4azloYmp2ZG1kc3JwYXV6bDZxaXNqaGh1cGx0ZWluYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i229PTC8BKt9V9RnwZ/giphy.gif" width="100"/>
 
   <div id="badges">
-  <a href="www.linkedin.com/in/gourav-k-9685271b0">
+  <a href="www.linkedin.com/in/gourav-k-9685271b0" target=_blank>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   </div>
