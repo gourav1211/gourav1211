@@ -15,7 +15,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 
-  <p><strong>Welcome to my GitHub!</strong> Here, you'll find projects on full-stack development, cloud tools, and design experiments.</p>
+  <p><strong>Welcome to my GitHub!</strong> Here, you'll find projects on Full-Stack Development, Artificial Intelligence, and Design Experiments.</p>
 
   <div align="center">
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
